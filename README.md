@@ -1,2 +1,3 @@
 # powerbi
-file:///C:/Users/91724/OneDrive/Desktop/ZOMATO%20ANALYISIS.pdf
+
+[ZOMATO ANALYISIS.pdf](https://github.com/aniketkadam1/powerbi/files/9648205/ZOMATO.ANALYISIS.pdf)
